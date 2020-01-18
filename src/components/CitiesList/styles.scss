@@ -1,0 +1,10 @@
+.cities-list {
+  ul {
+    list-style-type: none;
+    height: 120px;
+    max-width: 760px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}
